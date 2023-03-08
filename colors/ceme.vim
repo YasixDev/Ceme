@@ -17,6 +17,8 @@ highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 
 highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 
+highlight Pmenu cterm=NONE ctermfg=white ctermbg=gray gui=NONE guifg=white guibg=gray
+
 highlight link Constant   Normal
 highlight link Function   Normal
 highlight link Identifier Normal
