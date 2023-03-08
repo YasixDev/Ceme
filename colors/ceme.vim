@@ -18,9 +18,9 @@ highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 
 highlight link Constant   Normal
+highlight link Function   Normal
 highlight link Identifier Normal
 highlight link Statement  Normal
 highlight link PreProc    Normal
-highlight link Type       Normal
 highlight link Special    Normal
 highlight link ModeMsg    MoreMsg
