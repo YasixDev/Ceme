@@ -5,7 +5,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-set background=light
+set background=dark
 let g:colors_name='ceme'
 
-highlight Normal ctermfg=Red
+highlight Normal ctermfg=Blue
