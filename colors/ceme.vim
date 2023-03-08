@@ -7,4 +7,5 @@ endif
 
 set background=dark
 let g:colors_name='ceme'
-hi! Comment         cterm=NONE            ctermfg=red   ctermbg=NONE
+
+hi! Normal         cterm=NONE            ctermfg=Red   ctermbg=NONE
