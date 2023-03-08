@@ -1,3 +1,4 @@
+highlight clear
 
 if exists("syntax_on")
   syntax reset
@@ -25,6 +26,8 @@ highlight link Special    Normal
 highlight link Tag        Normal
 highlight link @variable  Normal
 highlight link @include   Type
+highlight link @method    Normal
+highlight link @property  Normal
 highlight link Delimiter  Normal
 highlight link SpecialKey Normal
 highlight link Label Normal
