@@ -13,6 +13,7 @@ highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
+highlight NonText cterm=NONE ctermfg=white gui=NONE guifg=white
 highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 
 highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
@@ -25,7 +26,6 @@ highlight link PreProc    Normal
 highlight link Special    Normal
 highlight link Tag        Normal
 highlight link Delimiter  Normal
-highlight link Special    Normal
-highlight link NonText    Normal
+highlight link SpecialKey Normal
 highlight link Operator   Normal
 highlight link ModeMsg    MoreMsg
