@@ -12,6 +12,8 @@ highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
+highlight Identifier cterm=NONE ctermfg=White gui=NONE guifg=White
+
 highlight NonText cterm=NONE ctermfg=white gui=NONE guifg=white
 highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 
@@ -29,7 +31,6 @@ highlight link LspInfoTitle Normal
 highlight link DiffChange Normal
 highlight link PreCondit  Normal
 highlight link Function   Normal
-highlight link Identifier Normal
 highlight link Statement  Type
 highlight link PreProc    Normal
 highlight link Special    Normal
