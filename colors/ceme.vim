@@ -25,7 +25,10 @@ highlight link Statement  Type
 highlight link PreProc    Normal
 highlight link Special    Normal
 highlight link Tag        Normal
+highlight link @variable  Normal
+highlight link @include   Type
 highlight link Delimiter  Normal
 highlight link SpecialKey Normal
+highlight link Label Normal
 highlight link Operator   Normal
 highlight link ModeMsg    MoreMsg
