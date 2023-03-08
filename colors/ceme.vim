@@ -20,7 +20,9 @@ highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 highlight link Constant   Normal
 highlight link Function   Normal
 highlight link Identifier Normal
-highlight link Statement  Normal
+highlight link Statement  Type
 highlight link PreProc    Normal
 highlight link Special    Normal
+highlight link NonText    Normal
+highlight link Operator   Normal
 highlight link ModeMsg    MoreMsg
