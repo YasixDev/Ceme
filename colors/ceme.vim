@@ -10,4 +10,6 @@ let g:colors_name='ceme'
 
 highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 
+highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
+
 highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
