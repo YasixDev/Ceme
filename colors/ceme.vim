@@ -23,6 +23,9 @@ highlight link Identifier Normal
 highlight link Statement  Type
 highlight link PreProc    Normal
 highlight link Special    Normal
+highlight link Tag        Normal
+highlight link Delimiter  Normal
+highlight link Special    Normal
 highlight link NonText    Normal
 highlight link Operator   Normal
 highlight link ModeMsg    MoreMsg
