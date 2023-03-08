@@ -8,4 +8,4 @@ endif
 set background=dark
 let g:colors_name='ceme'
 
-highlight Normal            ctermfg=Red   ctermbg=NONE
+highlight Normal ctermfg=Red
