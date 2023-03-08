@@ -20,6 +20,14 @@ highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
 highlight Pmenu cterm=NONE ctermfg=white ctermbg=gray gui=NONE guifg=white guibg=gray
 
 highlight link Constant   Normal
+highlight link Cursor     Normal
+highlight link lCursor    Normal
+highlight link Conceal    Normal
+highlight link Title      Normal
+highlight link FidgetTitle Normal
+highlight link LspInfoTitle Normal
+highlight link DiffChange Normal
+highlight link PreCondit  Normal
 highlight link Function   Normal
 highlight link Identifier Normal
 highlight link Statement  Type
