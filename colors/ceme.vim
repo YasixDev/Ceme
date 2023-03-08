@@ -35,6 +35,7 @@ highlight link PreProc    Normal
 highlight link Special    Normal
 highlight link Tag        Normal
 highlight link @variable  Normal
+highlight link @float     Normal
 highlight link @include   Type
 highlight link @method    Normal
 highlight link @property  Normal
