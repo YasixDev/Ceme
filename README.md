@@ -6,5 +6,10 @@
 ```
 use 'YasixDev/Ceme'
 ```
+> using vim :
+copy colors file to ~/.vim/colors
 
-
+##Usage
+```
+colorscheme ceme
+```
