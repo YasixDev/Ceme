@@ -1,2 +1,2 @@
 # Ceme
-## a vim / nvim for simplicity
+## a vim / nvim theme for simplicity
