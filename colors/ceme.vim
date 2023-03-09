@@ -40,6 +40,7 @@ highlight link @variable  Normal
 highlight link @function.builtin Type 
 highlight link @float     Normal
 highlight link @include   Type
+highlight link @boolean   Type
 highlight link @method    Normal
 highlight link @property  Normal
 highlight link Delimiter  Normal
