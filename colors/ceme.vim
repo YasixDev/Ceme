@@ -13,6 +13,7 @@ highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
 highlight Identifier cterm=NONE ctermfg=White gui=NONE guifg=White
+highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
 highlight NonText cterm=NONE ctermfg=white gui=NONE guifg=white
 highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
@@ -36,6 +37,7 @@ highlight link PreProc    Normal
 highlight link Special    Normal
 highlight link Tag        Normal
 highlight link @variable  Normal
+highlight link @function.builtin Type 
 highlight link @float     Normal
 highlight link @include   Type
 highlight link @method    Normal
