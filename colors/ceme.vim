@@ -12,6 +12,8 @@ highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
+highlight Title cterm=NONE ctermfg=White gui=NONE guifg=White
+
 highlight Identifier cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 
@@ -26,7 +28,6 @@ highlight link Constant   Normal
 highlight link Cursor     Normal
 highlight link lCursor    Normal
 highlight link Conceal    Normal
-highlight link Title      Normal
 highlight link FidgetTitle Normal
 highlight link LspInfoTitle Normal
 highlight link DiffChange Normal
