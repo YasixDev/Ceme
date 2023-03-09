@@ -1,7 +1,7 @@
 ## Ceme
 ## a vim / nvim theme for simplicity
 
-##Installation
+## Installation
 > Using packer :
 ```
 use 'YasixDev/Ceme'
@@ -9,7 +9,7 @@ use 'YasixDev/Ceme'
 > using vim :
 copy colors file to ~/.vim/colors
 
-##Usage
+## Usage
 ```
 colorscheme ceme
 ```
