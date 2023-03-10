@@ -8,7 +8,7 @@ set background=dark
 let g:colors_name='ceme'
 
 
-highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
+highlight String cterm=NONE ctermfg=242 gui=NONE guifg=cyan
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight PreProc cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Constant cterm=NONE ctermfg=11 gui=NONE guifg=yellow
