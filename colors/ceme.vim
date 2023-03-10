@@ -10,6 +10,7 @@ let g:colors_name='ceme'
 
 highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
+highlight PreProc cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Constant cterm=NONE ctermfg=11 gui=NONE guifg=yellow
 highlight Title cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Include cterm=NONE ctermfg=11 gui=NONE guifg=yellow
@@ -29,7 +30,6 @@ highlight link DiffChange Normal
 highlight link PreCondit  Normal
 highlight link Function   Normal
 highlight link Statement  Type
-highlight link PreProc    Normal
 highlight link Special    Normal
 highlight link Tag        Normal
 highlight link @variable  Normal
