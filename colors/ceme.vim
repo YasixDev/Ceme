@@ -19,6 +19,7 @@ highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight NonText cterm=NONE ctermfg=white gui=NONE guifg=white
 highlight Number cterm=NONE ctermfg=11 gui=NONE guifg=yellow
 highlight Type cterm=NONE ctermfg=11 gui=NONE guifg=yellow
+highlight Special cterm=NONE ctermfg=11 gui=NONE guifg=yellow
 highlight Pmenu cterm=NONE ctermfg=white ctermbg=gray gui=NONE guifg=white guibg=gray
 
 highlight link Cursor     Normal
@@ -30,7 +31,6 @@ highlight link DiffChange Normal
 highlight link PreCondit  Normal
 highlight link Function   Normal
 highlight link Statement  Type
-highlight link Special    Normal
 highlight link Tag        Normal
 highlight link @variable  Normal
 highlight link @function.builtin Type 
