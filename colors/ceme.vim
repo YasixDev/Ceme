@@ -10,15 +10,15 @@ let g:colors_name='ceme'
 
 highlight String cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
+highlight Constant cterm=NONE ctermfg=11 gui=NONE guifg=yellow
 highlight Title cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Identifier cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight Normal cterm=NONE ctermfg=White gui=NONE guifg=White
 highlight NonText cterm=NONE ctermfg=white gui=NONE guifg=white
-highlight Number cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
-highlight Type cterm=NONE ctermfg=yellow gui=NONE guifg=yellow
+highlight Number cterm=NONE ctermfg=11 gui=NONE guifg=yellow
+highlight Type cterm=NONE ctermfg=11 gui=NONE guifg=yellow
 highlight Pmenu cterm=NONE ctermfg=white ctermbg=gray gui=NONE guifg=white guibg=gray
 
-highlight link Constant   Normal
 highlight link Cursor     Normal
 highlight link lCursor    Normal
 highlight link Conceal    Normal
